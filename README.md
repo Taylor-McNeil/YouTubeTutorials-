@@ -1,2 +1,6 @@
-# YouTubeTutorials-
-Hey guys, these are my 100% FREE solutions and tutorial files for all of my YouTube videos. If you want more explanation for these files, check out the corresponding YouTube Video
+# 🎥 YouTube Tutorials – Free Code from My Videos
+
+Hey! This repo contains **100% free code samples and solutions** from my YouTube videos.  
+Whether you're here to follow along, copy/paste, or just peek under the hood—you’re welcome here.
+
+🧠 **Want more context?** Check out the corresponding tutorials on my [YouTube channel](https://www.youtube.com/@ThatDevTaylor). 
